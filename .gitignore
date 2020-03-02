@@ -2,3 +2,4 @@
 /.gradle/
 /.idea/
 /src/main/resources/application-real-db.properties
+application-real-db.properties
